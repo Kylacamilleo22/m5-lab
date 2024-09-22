@@ -4,6 +4,15 @@
 
 This is a simple program that changes html elements to be more accessible to screen reader users. CSS and Javascript were also used to add style and functionality.
 
+## Compiling and Running the Repository
+
+To run,
+
+1. Clone the repository
+2. In VSCode, if have the preview extension added, right click on index.html and click 'show preview'
+3. To view in localhost, open the terminal, do (1) 'npm install' (2) 'npm run', and open localhost:3000 in your browser
+
+
 ## Accessibility Lab Answers
 
 Color:
