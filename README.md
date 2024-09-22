@@ -2,7 +2,7 @@
 
 ## Overview
 
-TODO: Write a project description
+This is a simple program that changes html elements to be more accessible to screen reader users. CSS and Javascript were also used to add style and functionality.
 
 ## Accessibility Lab Answers
 
@@ -38,19 +38,10 @@ Other Considerations?
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- mdn web docs:
+  - https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+  - https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript
+  - https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
+  - https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia
+- Digital Accessibility   
+  - https://digitalaccessibility.virginia.edu/table-accessibility-basics#:~:text=Semantic%20markup%20is%20the%20foundation,and%20conveying%20information%20to%20users.
