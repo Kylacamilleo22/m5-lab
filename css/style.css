@@ -99,6 +99,10 @@ nav a {
   color: black;
 }
 
+nav a:hover {
+  color: #ffffff;
+  background-color: #a6a6be;  
+}
 nav .search {
   flex: 1;
   display: flex;
