@@ -10,6 +10,7 @@ Color Test:
 - I wanted to try and 
 
 Semantic HTML:
+- Before changing anything else, It's still hard to navigate when using the keyboard, it jumps to the audio after the navigation, skipping more content.
 - 
 
 Images:
