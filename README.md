@@ -4,6 +4,27 @@
 
 TODO: Write a project description
 
+## Accessibility Lab Answers
+
+Color Test:
+- I wanted to try and 
+
+Semantic HTML:
+- 
+
+Images:
+
+The Audio Player
+
+The Forms
+
+The Show/Hide Comment Control
+
+The Table
+
+Other Considerations?
+
+
 ## Sources and Credits
 
 TODO: You must credit the sources and authors of any code, libraries, or other
