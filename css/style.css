@@ -58,6 +58,10 @@ nav, article, footer, .secondary {
   background-color: white;
 }
 
+.secondary li {
+  text-align: left;
+}
+
 article, footer, .secondary {
   padding: 10px 30px;
 }
